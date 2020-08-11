@@ -7,7 +7,9 @@
       <button class="bg-green-700 px-4 py-8" @click="updatepost">put</button>
       <button class="bg-green-700 px-4 py-8" @click="deletePost">del</button>
     </div>
-    <div class="font-bold justify-center text-2xl">crud operation in nuxt using axios in test api usning</div>
+    <div
+      class="font-bold justify-center text-2xl"
+    >crud operation in nuxt using axios in test api usning</div>
     <a
       class="text-4xl font-extrabold text-indigo-700"
       href="https://jsonplaceholder.typicode.com/guide.html"
@@ -18,6 +20,10 @@
     <div
       class="font-bold justify-center text-4xl text-red-700"
     >see inspect element networks for operations</div>
+    <div
+      class="font-bold justify-center text-4xl text-gray-700"
+    >and start clicking buttons and see the response status codes</div>
+
     <!-- <button class="bg-green-700 px-4 py-8" @click="savePost">post</button>
     <button class="bg-green-700 px-4 py-8" @click="getPost">get</button>
     <button class="bg-green-700 px-4 py-8" @click="updatepost">put</button>
