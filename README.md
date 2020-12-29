@@ -1,4 +1,8 @@
-# YouTube
+# nuxt crud operation using json placeholder dummy api
+nuxt tailwindcs 
+
+crud operation 
+
 
 ## Build Setup
 
